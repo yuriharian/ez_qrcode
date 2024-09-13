@@ -1,4 +1,4 @@
-# ez_qrcode
+# EZ QR Code
 
 `ez_qrcode` é uma aplicação Python com interface gráfica que permite gerar códigos QR a partir de URLs ou textos e ler códigos QR a partir de imagens.
 
