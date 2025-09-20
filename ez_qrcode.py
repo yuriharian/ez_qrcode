@@ -6,7 +6,6 @@ from PIL import Image, ImageTk
 from pyzbar.pyzbar import decode
 import pyperclip
 
-
 def trocar_tela(tela_atual, tela_destino):
     # Esconde a tela atual e mostra a tela de destino dentro da mesma janela
     tela_atual.pack_forget()
