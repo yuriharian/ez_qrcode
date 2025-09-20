@@ -7,7 +7,6 @@
 - **Geração de QR Code**: Gere códigos QR a partir de URLs ou textos.
 - **Leitura de QR Code**: Leia e decodifique códigos QR a partir de arquivos de imagem.
 - **Salvar QR Codes**: Salve códigos QR gerados como arquivos de imagem (`.png`).
-- **Copiar QR Codes**: Copie a imagem do código QR gerado para a área de transferência.
 - **Copiar Dados Decodificados**: Copie os dados decodificados do código QR para a área de transferência.
 
 ## Requisitos
