@@ -18,10 +18,6 @@ root = tb.Window(themename="superhero")
 root.title("EZ QR Code")
 root.geometry("800x480")
 root.resizable(False, False)
-try:
-    root.iconbitmap("ez_qrcode.ico")
-except Exception as e:
-    print(f"Erro ao definir ícone: {e}")
 
 fonte_padrao = ("Helvetica", 12)
 
